@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 5a272e9b6c652b447b140dd2e0037038
+  - enabled: 1
+    path: Assets/Scenes/Module1.unity
+    guid: ca11705b1ef444d418bae365687aa778
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 8dc84b13470813441ac139e0ed6a847c
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/AlphabetTracing.unity
+    guid: 099a313ae1e8e4c4db3e023d3d4310de
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/A.unity
+    guid: 58ff837ba0638d94796dd9e8e8a48532
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/B.unity
+    guid: e3925be4285dd7b4f885b98f38a260ae
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/C.unity
+    guid: 2c7b4204a980bed4da78f03cd6233699
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/D.unity
+    guid: a1be19adf48548a44be91a6cc9139970
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/E.unity
+    guid: 0e7516a5c372b4e4bad44832f3450d17
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/F.unity
+    guid: 38e6a9f2d29ed9b4fa37ab4b20cda76c
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/G.unity
+    guid: ed9aaddb9a8232544a2db01aaf22e15a
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/H.unity
+    guid: 841751bebc089dc489885a8d82870655
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/I.unity
+    guid: 9e376901ce5b377419aeb667d4091903
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/J.unity
+    guid: 06e776b6bbb267f47a4a9251936caf06
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/K.unity
+    guid: 33577ccdf1cd5c84abf9f8bb44961161
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/L.unity
+    guid: d1551b77063d1b447a844165a850dbf4
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/M.unity
+    guid: 8ec660d1fcd2e6d49971e40447d953cc
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/N.unity
+    guid: 2ffd95e0b6c306b4f86e21b1760e5c97
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/O.unity
+    guid: a8cf1f5ca7dc9f346afb3a846142eed9
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/P.unity
+    guid: 5cd95a2f32c871240a38f14de2fa43e4
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/Q.unity
+    guid: 7a76b7c59979c3d46953180b132eaf4c
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/R.unity
+    guid: a327ebe9dee5d1c46b0ccb12098359a3
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/S.unity
+    guid: 3f72435c2760c4e4fb1768d27f222757
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/T.unity
+    guid: 94488ca91842c054198462127b1e4ca5
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/U.unity
+    guid: 1d78ada86e2503048a36c958eadf221e
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/V.unity
+    guid: 358f83c288e5b494aafde2181b264fc0
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/W.unity
+    guid: 3fba1de65da87bb4392fd4d03235a58a
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/X.unity
+    guid: a1ec4ba930026dd4e9ecc425874866ca
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/Y.unity
+    guid: b266290447d814449b958e936e3b261c
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/Z.unity
+    guid: 3793be61e6755d8408a8c5a6780793f6
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/AlphabetTracingCapital.unity
+    guid: f488abd98e42bf44aa015d0c854842f1
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/aSmall.unity
+    guid: e7da0591508bcd84f8250cc4bd3b935a
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/bSmall.unity
+    guid: 8741024fe60c3e34ba16c21b0eb35664
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/cSmall.unity
+    guid: d162db3bb0da79f4a9c27e79467fd65a
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/dSmall.unity
+    guid: 2004ffca3189d1841bb4f9d1e155015b
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/eSmall.unity
+    guid: 30dfc22f78425cf4988b898e2394aa21
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/fSmall.unity
+    guid: 3c4b559c084f2aa48814b31aef86b51a
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/gSmall.unity
+    guid: 324ef7907931d1a4289c0a792a1c53ba
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/hSmall.unity
+    guid: bd163610e17d8d34ab8d9c7d68dbe1f8
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/iSmall.unity
+    guid: 71e15f4450ae870479d9600f3500d7e9
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/jSmall.unity
+    guid: 5287387ce464ef24681aa13021888f7f
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/kSmall.unity
+    guid: 52a3eb09a1bc1f044a5b2c6db0257b26
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/lSmall.unity
+    guid: 0187369f151e27842bec36bbed2e0c19
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/mSmall.unity
+    guid: bb20564942ccc4045916175fd2cc3542
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/nSmall.unity
+    guid: 62df711cfdb43f6419becba7bbae6380
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/oSmall.unity
+    guid: 9c3c1931ac08b284aae59cafe88d03be
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/pSmall.unity
+    guid: 49446812056493e43b261405dce0cb0f
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/qSmall.unity
+    guid: 5510ca3a1df11af42abdb240c23ca493
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/rSmall.unity
+    guid: 0f08eb69c59a3a54696e7cb39d73183b
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/sSMall.unity
+    guid: f4efbbd3e7359834f929d0f50fca92ee
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/tSmall.unity
+    guid: fec9e073750fd1545b0524f192708cc7
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/uSmall.unity
+    guid: 317db04c9d02b9e4d8b5fa28d7c8cd8c
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/vSmall.unity
+    guid: c7e36c4a3ef4a7b448602479978813bc
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/wSmall.unity
+    guid: 0c46485b0805e874499548b623a3c8bf
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/xSmall.unity
+    guid: 2ad980ef554923e4981b169246588c86
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/ySmall.unity
+    guid: 4e57c71e630ac7f44a84d70887d4f940
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/zSmall.unity
+    guid: 2a3accb446a76b2449c71fcbccb4af53
+  - enabled: 1
+    path: Assets/Scenes/AlphabetTracing/AlphabetTracingSmall.unity
+    guid: e69da664a6dc281419ce33bdd7128857
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Ant.unity
+    guid: 0cf5d472060090748bb49e0568dd861f
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Bee.unity
+    guid: bda83689bbb7ef34d98c53249bae025e
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Cat.unity
+    guid: a07b282593ff3fe45826e1afdebcb38a
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Dog.unity
+    guid: 3e1206c7dea376248a64eb2236e70621
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Elephant.unity
+    guid: 26e84228d8dd0464689fd665239d37b6
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Fish.unity
+    guid: 24566430318dbe349b6cb033e23f456a
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Giraffe.unity
+    guid: 51384b52ed167f34c8416838e1135c89
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Horse.unity
+    guid: cfd2d079d93fce14781944259e2372e6
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Iguana.unity
+    guid: 09e558f4e1cb0554486eda274444cfe4
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Jellyfish.unity
+    guid: 77fb120f82c9bff4aa425c1f42f2998e
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Kangaroo.unity
+    guid: a2c08ef6428d6c0449f3951c1cdfa5cf
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Lion.unity
+    guid: 3a17baf894ea35f4abde977459138ed4
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Monkey.unity
+    guid: d310f77874332174592491d068114577
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Numbat.unity
+    guid: 87ba6a928060d1841a0ba02053cd3d9b
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Octopus.unity
+    guid: aea06db143bb7af45ab6118fddb4a857
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Panda.unity
+    guid: 8b235a45d01b2244eb60195da679de7a
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Quail.unity
+    guid: 799628ff020c8a046a5dcf83e4467d28
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Rabbit.unity
+    guid: 3a957859fac964c4884c98a63739d74e
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Sheep.unity
+    guid: 47195aa6d5913c7429f319ca03deca71
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Tiger.unity
+    guid: 4bf2a4ab18590264dae1f6f7ce7022ec
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Urial.unity
+    guid: 463fe4432237f0b4295f64c04139598b
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Vulture.unity
+    guid: 6152f6d48e2a6c44a8da291e57f15ddb
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Wolf.unity
+    guid: b840cff51746ed845ba5cd6989f7f835
+  - enabled: 1
+    path: Assets/Scenes/Spelling/XRayFish.unity
+    guid: b72010e0ef3162643887b122679a59c6
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Yak.unity
+    guid: 0f378b809cc59a744a67180662d05869
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Zebra.unity
+    guid: b6d4ac85892ce7344831fbf215d60733
+  - enabled: 1
+    path: Assets/Scenes/Spelling/Spelling.unity
+    guid: 4c07be8c01ae1294da608413e655c34e
+  m_configObjects: {}

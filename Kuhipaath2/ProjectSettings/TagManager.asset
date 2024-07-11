@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fruit
+  - Food
+  - Animal
+  - CorrectFood
+  - A
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Fruits
+  - Animal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Finished
+    uniqueID: 3256480405
+    locked: 0
+  - name: Current
+    uniqueID: 1495397063
+    locked: 0
+  - name: Canvas
+    uniqueID: 4233288583
+    locked: 0
+  - name: Animal
+    uniqueID: 3757830111
+    locked: 0
+  - name: Animation
+    uniqueID: 4038900333
+    locked: 0
